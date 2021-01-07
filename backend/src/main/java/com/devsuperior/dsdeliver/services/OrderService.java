@@ -13,7 +13,6 @@ import com.devsuperior.dsdeliver.dto.ProductDTO;
 import com.devsuperior.dsdeliver.entities.Order;
 import com.devsuperior.dsdeliver.entities.OrderStatus;
 import com.devsuperior.dsdeliver.entities.Product;
-import com.devsuperior.dsdeliver.entities.Product;
 import com.devsuperior.dsdeliver.repositories.OrderRepository;
 import com.devsuperior.dsdeliver.repositories.ProductRepository;
 
